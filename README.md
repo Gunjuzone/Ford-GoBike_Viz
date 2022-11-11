@@ -3,7 +3,7 @@
 ## Shakiru Olagunju
 
 
-## Dataset
+## About the Dataset
 The forgobike dataset was analyzed for this project. The forgobike dataset contains information about individual bike-sharing trips in the San Francisco Bay area.
 
 To improve the findings, I cleaned the datset for several tidiness and quality issues.
